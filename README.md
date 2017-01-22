@@ -1,2 +1,2 @@
 # hello-world
-This is a basic repository file, to check things out.
+I am an 18 years old who is trying out coding. I have a very basic understanding of html, and I am currently learning python. 
